@@ -1,10 +1,10 @@
 CONTACT INFORMATION
 ---------------------------------------------------------------------
-Name: Dereck Guay 101126382
+Name: Jason Zhang (101191526)
 Team: T004
-Phone: +1 (888)-222-1111
+Phone: +1 (613)-981-2838
 Website: carleton.ca
-Email: dereckguay@carleton.ca
+Email: jasonzhang9@cmail.carleton.ca
 
 SOFTWARE INFORMATION
 ---------------------------------------------------------------------
